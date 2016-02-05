@@ -1,4 +1,5 @@
 # difference of two input files
+# You've been hacked!!
 # demo version, just return a random number or "files are identical"
 if [ "$1" == "$2" ]
 then
